@@ -1,0 +1,6 @@
+C:\Users\Training\Documents\Training Projects\CRUDOperations\CRUDOperations\bin\CRUDOperations.dll.config
+C:\Users\Training\Documents\Training Projects\CRUDOperations\CRUDOperations\bin\CRUDOperations.dll
+C:\Users\Training\Documents\Training Projects\CRUDOperations\CRUDOperations\bin\CRUDOperations.pdb
+C:\Users\Training\Documents\Training Projects\CRUDOperations\CRUDOperations\obj\Debug\CRUDOperations.csprojResolveAssemblyReference.cache
+C:\Users\Training\Documents\Training Projects\CRUDOperations\CRUDOperations\obj\Debug\CRUDOperations.dll
+C:\Users\Training\Documents\Training Projects\CRUDOperations\CRUDOperations\obj\Debug\CRUDOperations.pdb
